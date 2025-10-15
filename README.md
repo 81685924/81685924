@@ -9,7 +9,7 @@ Hi, I am Charles Wang, a data-driven and results-driven Business Intelligence Pr
 
 - **Scripting:** Python (Pandas, PySpark, NumPy, Matplotlib, SciPy, Sklearn), SQL (PostgreSQL, MySQL, T-SQL)
 - **Cloud Platforms:** AWS, GCP, Azure
-- **Data Warehousing:** Snowflake, Redshift, Athena, BigQuery
+- **Data Warehousing:** Snowflake, Redshift, Athena, BigQuery, Azure
 - **ETL Orchestration:** Fivetran, dbt
 - **Visualization:** Tableau, Power BI
 
